@@ -2,7 +2,7 @@
 
 This was my first major group project. I did most of the front end and my partner did most of the back end.
 
-**Technologies used:** Babel, Chalk, Cors, Dotenv, Express, Faker, Mapbox, Nunjucks, Javascript, Passport, Sequelize, Swagger, Esline, Nodemon, Sass, SCSS and CSS
+**Technologies used:** Babel, Chalk, Cors, Dotenv, Express, Faker, Mapbox, Nunjucks, Javascript, Passport, SQLite3, Sequelize, Swagger, Esline, Nodemon, Sass, SCSS and CSS
 
 ## Assignment
 As our final assignment for @Work 2, we created an original self-made deisgn for a webshop. This webshop needed to have products and categories for a self chosen audience.
