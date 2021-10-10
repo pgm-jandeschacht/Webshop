@@ -1,6 +1,6 @@
 # Webshop Enjin
 
-This is my first major group project. I did most of the front end and my partner did most of the back end.
+This was my first major group project. I did most of the front end and my partner did most of the back end.
 
 **Technologies used:** Babel, Chalk, Cors, Dotenv, Express, Faker, Mapbox, Nunjucks, Javascript, Passport, Sequelize, Swagger, Esline, Nodemon, Sass, SCSS and CSS
 
