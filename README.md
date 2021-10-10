@@ -1,10 +1,14 @@
-# @Work2 : Final Project: Webshop Enjine
+# Webshop Enjin
+
+This is my first major group project. I did most of the front end and my partner did most of the back end.
+
+**Technologies used:** Babel, Chalk, Cors, Dotenv, Express, Faker, Mapbox, Nunjucks, Javascript, Passport, Sequelize, Swagger, Esline, Nodemon, Sass, SCSS and CSS
 
 ## Assignment
 As our final assignment for @Work 2, we created an original self-made deisgn for a webshop. This webshop needed to have products and categories for a self chosen audience.
 
 ## Approach
-We chose to sell cars in our own webshop **Enjine**. The overview page would have 2 categories, 'Bodywork' and 'Brands'. going to the cars-overview would group them by this category. 'Car' being our main product while still having a lot of properties. All examples can be found in the API documentation.
+We chose to sell cars in our own webshop **Enjin**. The overview page would have 2 categories, 'Bodywork' and 'Brands'. going to the cars-overview would group them by this category. 'Car' being our main product while still having a lot of properties. All examples can be found in the API documentation.
 
 ## Start up server
 If you would wan to re-seed the database, remove the database file at: **/server/data/database.sqlite3**.  
@@ -86,5 +90,6 @@ Either after re-seeding or not, this project uses server-side rendering. startin
 Nunjucks-files are being rendered from the **/views**-folder.  
 Scss is being converted from **/views/style/main.scss** to **/public/css/main.css**  
 images, scripts, ..can be added to the **/public/images** and **/public/css**-folders.  
+
 
 
